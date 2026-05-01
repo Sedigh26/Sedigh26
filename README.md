@@ -37,6 +37,26 @@ From web & mobile apps to system-level scripting and networking, I’m always le
 
 <br>
 
+### 🚀 Featured Projects (Private/Enterprise)
+*Since these projects are under private contracts, the source code is not public, but here is the architectural overview:*
+
+**🏦 BCM Budget Management System (BCM-AEMS)**
+- **Description:** A sovereign budget management system developed for the Direction Générale of the BCM. Focused on financial transparency, tracking, and administrative automation.
+- **Key Tech:** `JavaScript`, `Full-Stack Architecture`, `Secure Database Design`.
+- **Impact:** Streamlined budgetary workflows and improved data integrity for a national institution.
+
+**🏗️ SNIM Industry Project**
+- **Description:** A professional graduation project focused on solving specific industrial challenges within SNIM (Mining sector).
+- **Key Tech:** `HTML`, `CSS`, `JavaScript`, `System Integration`.
+- **Impact:** Applied software engineering principles to real-world industrial logistics/operations.
+
+**🏫 El-Emal School System**
+- **Description:** A comprehensive management platform for educational institutions to handle student data, grading, and administration.
+- **Key Tech:** `JavaScript`, `Full-Stack Development`.
+- **Impact:** Digitized manual school records and optimized communication between staff and students.
+
+<br>
+
 <h3 align="left">💻 Languages & Technologies</h3>
 
 **Frontend**
