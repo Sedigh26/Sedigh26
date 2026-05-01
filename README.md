@@ -96,7 +96,7 @@ From web & mobile apps to system-level scripting and networking, I’m always le
 
 <h3 align="left">🌐 Connect With Me</h3>
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/abouberk-sedigh-ba6415369/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="90">
   </a>
   <a href="https://github.com/sedigh">
